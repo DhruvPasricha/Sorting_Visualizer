@@ -1,3 +1,5 @@
+<hr>
+
 # Sorting Visualizer
 
 <hr>
